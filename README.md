@@ -32,5 +32,7 @@ Join the Discord for support: https://discord.gg/C9SZzVDH2u
 2. Set an aimkey in config.txt
 3. Run DETRIX Tools V1.exe
 
+```
 ## System Requirements:
 - Windows 10 or 11 
+```
