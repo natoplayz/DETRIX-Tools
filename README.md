@@ -28,17 +28,17 @@ Join the Discord for support: https://discord.gg/C9SZzVDH2u
 
 </div>
 
-Before running DETRIX Tools V1.exe you must:
+## Before running DETRIX Tools V1.exe you must:
 - Disable anti-virus software (windows + others)
 
 </div>
 
-- Steps:
+## - Steps:
 1. Run Anti Easy Anti Cheat.exe
 2. Set an aimkey in config.txt
 3. Run DETRIX Tools V1.exe
 
 </div>
 
-System Requirements:
+## System Requirements:
 - Windows 10 or 11 
