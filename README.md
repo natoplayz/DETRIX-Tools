@@ -21,13 +21,11 @@ a simple free FORTNITE hacking client. (use at your own risk!)
 - I am not responsible for anything that happens
 - Anyways, use responsibly :)
 
-# DETRIX Tools V1 - Game Hacking Client
+<div align=center>
+
 Join the Discord for support: https://discord.gg/C9SZzVDH2u
 
-```
-Before running DETRIX Tools V1.exe you must:
-- Disable anti-virus software (windows + others)
-```
+</div>
 
 ```
 System Requirements:
