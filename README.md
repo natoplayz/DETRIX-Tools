@@ -33,7 +33,7 @@ Join the Discord for support: https://discord.gg/C9SZzVDH2u
 
 </div>
 
-##Steps:
+## Steps:
 1. Run Anti Easy Anti Cheat.exe
 2. Set an aimkey in config.txt
 3. Run DETRIX Tools V1.exe
