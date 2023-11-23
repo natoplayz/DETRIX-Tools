@@ -25,7 +25,7 @@ a simple free FORTNITE hacking client. (use at your own risk!)
 Join the Discord for support: https://discord.gg/C9SZzVDH2u
 
 ```
-## Before running DETRIX Tools V1.exe you must:
+Before running DETRIX Tools V1.exe you must:
 - Disable anti-virus software (windows + others)
 ```
 
