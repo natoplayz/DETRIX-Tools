@@ -22,7 +22,7 @@ a simple free FORTNITE hacking client. (use at your own risk!)
 - Anyways, use responsibly :)
 
 
-**DETRIX Tools V1 - Game Hacking Client
+# DETRIX Tools V1 - Game Hacking Client
 Join the Discord for support: https://discord.gg/C9SZzVDH2u
 
 
