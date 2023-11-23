@@ -35,6 +35,6 @@ Before running DETRIX Tools V1.exe you must:
 3. Run DETRIX Tools V1.exe
 
 ```
-## System Requirements:
+System Requirements:
 - Windows 10 or 11 
 ```
